@@ -54,11 +54,11 @@ You'll need a modern web browser like Google Chrome, Firefox, or Safari. No othe
 Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/your-repo-name.git
+link:- https://airpods-git-main-reachers-projects-496c188e.vercel.app
 
 Navigate to the project directory:
 
-cd your-repo-name
+cd airpods
 
 Open the index.html file in your browser to view the website.
 
